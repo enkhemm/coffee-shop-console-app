@@ -39,6 +39,5 @@ When you start the application, follow the prompts to choose and customize your 
 3. After checkout, you can:
     - Specify when you want to pickup your drink, if you chose cafe
     - Choose to have your drink at home.
-  
 All orders are saved to "order.txt" and cleared after checkout.
 ------------------------------------------------------------------------
